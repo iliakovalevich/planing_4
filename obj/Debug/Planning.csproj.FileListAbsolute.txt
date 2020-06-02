@@ -1,0 +1,9 @@
+E:\Проги\Planning\bin\Debug\Planning.exe.config
+E:\Проги\Planning\bin\Debug\Planning.exe
+E:\Проги\Planning\bin\Debug\Planning.pdb
+E:\Проги\Planning\obj\Debug\Planning.csprojAssemblyReference.cache
+E:\Проги\Planning\obj\Debug\Planning.Form1.resources
+E:\Проги\Planning\obj\Debug\Planning.Properties.Resources.resources
+E:\Проги\Planning\obj\Debug\Planning.csproj.GenerateResource.cache
+E:\Проги\Planning\obj\Debug\Planning.exe
+E:\Проги\Planning\obj\Debug\Planning.pdb
